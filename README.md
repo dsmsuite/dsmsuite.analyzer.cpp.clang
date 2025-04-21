@@ -2,7 +2,7 @@
 
 # Introduction
 
-This reposiory will contain a software dependency analyzer for C/C++ using clanf.
+This reposiory will contain a software dependency analyzer for C/C++.
 
 Planned features:
 -Analyses software dependencies using clang
