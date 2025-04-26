@@ -2,9 +2,9 @@
 
 # Introduction
 
-This reposiory will contain a software dependency analyzer for C/C++.
+This reposiory contains a software dependency analyzer for C/C++.
 
-Planned features:
+Features:
 -Analyses software dependencies using clang
 -Requires compilation database as input
 -Supports following output formats
@@ -13,4 +13,4 @@ Planned features:
 
 # Status
 
-Does not yet contain any source code.
+Prototype. Not stable version available yet. 
